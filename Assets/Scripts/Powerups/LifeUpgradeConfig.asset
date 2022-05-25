@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096008a3bb9cdf249b065c1e5dc172c1, type: 3}
+  m_Name: LifeUpgradeConfig
+  m_EditorClassIdentifier: 
+  m_powerUpType: 3
+  m_upgradable: 0
+  m_powerUpSprite: {fileID: 21300000, guid: b716fe36d14604b4bb6bcca36db8bfbf, type: 3}
+  m_powerUpNameID: 
+  m_descriptionID: 
